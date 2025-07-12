@@ -1,15 +1,19 @@
 Control LEDs with Hand Gestures using MediaPipe, OpenCV & Arduino
 Control real-world LEDs using your hand gestures captured by a webcam.
 
--> Features:
-Real time hand tracking using MediaPipe.
-Gesture recognition with OpenCV and Python.
-Serial comunication with Arduino UNO.
-Control multiple LEDs with movement of finger.
+➡️ Tech Stack Used:
 
-🔧 Components Required:
-Software
-Python 3.x, OpenCV, MediaPipe, PySerial, Arduino IDE
+MediaPipe (for real time hand tracking)
 
-🔌 Hardware:
-Arduino UNO, LEDs (5), Resistors (150Ω), Jumper wires, Breadboard, USB cable
+OpenCV (for video processing)
+
+Arduino (for controlling the LEDs)
+
+Python (for gesture detection and serial communication)
+
+
+➡️ How it works:
+
+Using a webcam and MediaPipe hand tracking, specific finger gestures are mapped to commands (like turning ON/OFF different LEDs). These commands are sent via serial communication to an Arduino, which activates the corresponding LEDs no physical buttons needed!
+
+
