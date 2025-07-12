@@ -9,16 +9,7 @@ Control multiple LEDs with movement of finger.
 
 🔧 Components Required
 Software
-Python 3.x
-OpenCV
-MediaPipe
-PySerial
-Arduino IDE
+Python 3.x, OpenCV, MediaPipe, PySerial, Arduino IDE
 
 🔌 Hardware
-Arduino UNO (or similar)
-LEDs (5)
-Resistors (150Ω)
-Jumper wires
-Breadboard
-USB cable
+Arduino UNO, LEDs (5), Resistors (150Ω), Jumper wires, Breadboard, USB cable
