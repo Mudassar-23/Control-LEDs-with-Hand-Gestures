@@ -7,9 +7,9 @@ Gesture recognition with OpenCV and Python.
 Serial comunication with Arduino UNO.
 Control multiple LEDs with movement of finger.
 
-🔧 Components Required
+🔧 Components Required:
 Software
 Python 3.x, OpenCV, MediaPipe, PySerial, Arduino IDE
 
-🔌 Hardware
+🔌 Hardware:
 Arduino UNO, LEDs (5), Resistors (150Ω), Jumper wires, Breadboard, USB cable
