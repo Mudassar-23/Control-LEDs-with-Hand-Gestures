@@ -36,7 +36,7 @@ Each finger movement is detected in real-time and mapped to control five LEDs, o
 
 - Arduino Uno (or compatible board)
 - 5 LEDs
-- 5 Resistors (220Ω recommended)
+- 5 Resistors (120Ω recommended)
 - Breadboard and jumper wires
 - USB cable for Arduino-PC connection
 
