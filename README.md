@@ -83,3 +83,14 @@ pip install pyserial
 - Robotics hand control
 
 - Educational demos in computer vision and embedded systems
+
+---
+
+## How to Run the Project
+
+1. Clone the repository to your local machine:
+
+```bash
+ git clone https://github.com/Mudassar-23/Control-LEDs-with-Hand-Gestures.git
+```
+
